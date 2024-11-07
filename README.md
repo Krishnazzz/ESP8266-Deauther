@@ -103,4 +103,4 @@ The WiFi password for ```pwned``` is ```deauther``` in case you were looking for
 ## Reset
 To reset you nodemcu use ai thinker reset file given on the top And flash again your deauther code.
 ### Thank you 🙂
-Credit:https://github.com/Esther7171
+
